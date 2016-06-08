@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-reactdown",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Benjamin Stepp <me@benstepp.com> (http://fightingdragonswithtaylorswift.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^0.11.3",
+    "reactdown": "^1.0.0-alpha14"
+  }
+}
